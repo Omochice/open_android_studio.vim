@@ -1,0 +1,23 @@
+*open_android_studio.txt*                        open files in android-studio
+=============================================================================
+open_android_studio ~
+                                                        *open_android_studio*
+
+Introduction ~
+                                           *open_android_studio-introduction*
+
+|open_android_studio| opens files in android-studio.
+This pugin requires `studio` command in `$PATH`.
+
+Function ~
+                                              *open_android_studio-functions*
+
+- `open_android#open(file, line, column)`          *open_android_studio#open*
+
+	Open specified file and the position in android-studio.
+
+- `open_android_studio#open_here()`           *open_android_studio#open_here*
+
+	Open current file and the position in android-studio.
+
+vim:tw=78:ts=8:noet:ft=help:norl:
