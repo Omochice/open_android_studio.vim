@@ -12,7 +12,7 @@ This pugin requires `studio` command in `$PATH`.
 Function ~
                                               *open_android_studio-functions*
 
-- `open_android#open(file, line, column)`          *open_android_studio#open*
+- `open_android_studio#open(file, line, column)`          *open_android_studio#open*
 
 	Open specified file and the position in android-studio.
 
